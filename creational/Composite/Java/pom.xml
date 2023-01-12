@@ -5,12 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mario21ic</groupId>
-  <artifactId>myiterator</artifactId>
+  <artifactId>mysingleton</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>myiterator</name>
+  <name>mysingleton</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://mario21ic.com</url>
+  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
